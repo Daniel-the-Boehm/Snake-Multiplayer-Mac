@@ -1,6 +1,8 @@
+# Snake for macOS
 
+![Screenshot of Snake for macOS](Screenshot-Snake-Mac.png)
 
-![Screenshot-Snake-Mac](Screenshot-Snake-Mac.png)A native Snake game for the Mac, written in Swift and SwiftUI. It plays alone or with up to four people on the same Wi-Fi, and it is compatible with the [Windows version](https://github.com/Daniel-the-Boehm/snake-windows): a Mac can host a game that Windows players join, and the other way round.
+A native Snake game for the Mac, written in Swift and SwiftUI. It plays alone or with up to four people on the same Wi-Fi, and it is compatible with the [Windows version](https://github.com/Daniel-the-Boehm/Snake-Multiplayer-Windows): a Mac can host a game that Windows players join, and the other way round.
 
 There is no Xcode project. The whole app is ten Swift files and one build script.
 
